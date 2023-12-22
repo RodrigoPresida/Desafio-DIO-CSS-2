@@ -1,7 +1,7 @@
 
-# Desafio HTML DIO
+# Desafio DIO CSS 2
 
-Desafio DIO HTML básico 3
+Desafio DIO CSS 2 / Clone do Youtube
 
 
 
@@ -9,16 +9,12 @@ Desafio DIO HTML básico 3
 
 
 ## Funcionalidades
-O objetivo é criar uma página HTML um pouco mais completo com uma proposta similar a Wikipedia
-- Estruturação e formatação de texto
-- Tags mais semanticas
-
-
+O objetivo era clonar uma página do youtube para treinar o CSS das aulas.
 
 
 ## Melhorias
 
-Não fiz responsividade pois não era o escopo.
+Necessario dar uma orgaziada no código. O farei assim que tiver um tempinho.
 
 
 ## 🛠 Habilidades
